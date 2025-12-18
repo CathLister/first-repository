@@ -3,5 +3,5 @@
 Todo List:
 
 [x] create a new file 
-[ ] make first commit
+[x] make first commit
 [ ] fix the typo
